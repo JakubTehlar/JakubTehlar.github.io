@@ -1,2 +1,2 @@
-# JakubTehlar.github.io
-Github pages for Javascript semestral application beta
+# JS_semestralka
+This repo is for the semestral project of the KAJ course
